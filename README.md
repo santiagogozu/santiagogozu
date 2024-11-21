@@ -10,17 +10,17 @@ https://santiagogozu.github.io/Portafolio/
 
 
 ## Front End technologies:
-    Html5.
-    Css3.
-    JavaScript.
-    React.
-    Angular.
-    Sass.
+Html5.
+Css3.
+JavaScript.
+React.
+Angular.
+Sass.
 
     
 ##  Back End technologies:
-    Node.JS.
-    Express.
-    JavaScript.
-    MongoDb.
-    MySQL.
+Node.JS.
+Express.
+JavaScript.
+MongoDb.
+MySQL.
