@@ -10,8 +10,8 @@ https://santiagogozu.github.io/Portafolio/
 
 
 ## Front End technologies:
-Html5.
-Css3.
+- Html5.
+- Css3.
 JavaScript.
 React.
 Angular.
